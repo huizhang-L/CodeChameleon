@@ -5,8 +5,8 @@ import argparse
 import os
 import pandas as pd
 
-# 内马尔
-OPENAI_API_KEY = "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"
+# your openai key
+OPENAI_API_KEY = "your openai key here"
 
 
 MODEL_NAME_4 = 'gpt-4-1106-preview'
