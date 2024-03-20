@@ -1,7 +1,7 @@
 <!-- # CodeChamaleon -->
 
 <h1 align="center">CodeChamaleon </h1>
-This repository contains the code implementation for the paper '[CodeChameleon: Personalized Encryption Framework for Jailbreaking Large Language Models](https://arxiv.org/pdf/2402.16717.pdf)'. A novel framework for jailbreaking in LLMs based on personalized encryption and decryption. 
+This repository contains the code implementation for the paper [CodeChameleon: Personalized Encryption Framework for Jailbreaking Large Language Models](https://arxiv.org/pdf/2402.16717.pdf). 
 <br>   <br>
 
 <div align="center">
