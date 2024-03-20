@@ -1,7 +1,7 @@
 <!-- # CodeChamaleon -->
 
 <h1 align="center">CodeChamaleon </h1>
-A novel framework for jailbreaking in LLMs based on personalized encryption and decryption. 
+This repository contains the code implementation for the paper '[CodeChameleon: Personalized Encryption Framework for Jailbreaking Large Language Models](https://arxiv.org/pdf/2402.16717.pdf)'. A novel framework for jailbreaking in LLMs based on personalized encryption and decryption. 
 <br>   <br>
 
 <div align="center">
@@ -49,3 +49,16 @@ python gpt_evaluate.py \
 
 
 The remaining parameters are all relevant parameters in the model's inference stage.
+
+
+## 🖊️ Citation
+
+```bibtex
+@article{lv2024codechameleon,
+  title={CodeChameleon: Personalized Encryption Framework for Jailbreaking Large Language Models},
+  author={Lv, Huijie and Wang, Xiao and Zhang, Yuansen and Huang, Caishuang and Dou, Shihan and Ye, Junjie and Gui, Tao and Zhang, Qi and Huang, Xuanjing},
+  journal={arXiv preprint arXiv:2402.16717},
+  year={2024}
+}
+
+```
